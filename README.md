@@ -5,6 +5,8 @@
 
 This project aims to break down and reimplement the core logic of Uniswap V2, providing a simplified version of an Automated Market Maker (AMM) for educational and experimental purposes. The main contract demonstrates how liquidity pools, pricing formulas, and token swaps work in a decentralized exchange.
 
+Deploy address https://sepolia.etherscan.io/address/0x4e6037b6613dba5aba761e3b14c7954f114947b7
+
 ## Structure
 
 - `src/UniswapV2.sol`: Main contract implementing the AMM logic
